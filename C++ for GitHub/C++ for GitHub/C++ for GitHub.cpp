@@ -130,8 +130,8 @@ int main()
 	std::cout << string_3('g') << '\n';
 	std::cout << '\n';
 
-	std::cout << string_1("wor556ld") << '\n';
-	std::cout << string_1("Hi") << '\n';
+	std::cout << string_1("MERGE CONFLICT!") << '\n';
+
 
 	std::cout << "The lenghs of string is - " << string_1.operator int() << " symbols" << '\n';
 
